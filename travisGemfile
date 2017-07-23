@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+
+#gem "jekyll"
+gem "rake"
+gem "sass"
+gem "json"
+gem "redcarpet"
+
+group :jekyll_plugins do
+  gem "github-pages"
+  gem "bourbon"
+  gem "jekyll-feed"
+  gem "jekyll-paginate"
+  gem "pygments.rb"
+  gem "jekyll-compose"
+  gem "kramdown"
+end
