@@ -1,5 +1,5 @@
 # Build settings
-permalink: /blog/:year/:title/
+permalink: none
 markdown: kramdown
 highlighter: pygments
 gems: [jekyll-paginate]
@@ -28,21 +28,21 @@ disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Bayu Prastianto
+  job: looking for a real job
+  bio: "Getting things done."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: bayu.prastianto@outlook.com
+  url: https://bayupr.cf/
+  # github: https://github.com/nandomoreirame
+  twitter: https://twitter.com/bayupee
+  facebook: https://facebook.com/bayupee1
+  # linkedin: https://linkedin.com/in/nandomoreirame
 
 # navbar pages
 navbar:
-  - slug: about
-    title: About
+  - slug: tentang
+    title: Tentang
   - slug: icons
     title: Icons
   - slug: blog
